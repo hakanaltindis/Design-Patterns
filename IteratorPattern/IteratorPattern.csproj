@@ -42,6 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\ADCDepartmant.cs" />
+    <Compile Include="Classes\ArrayIterator.cs" />
+    <Compile Include="Classes\Employee.cs" />
+    <Compile Include="Classes\HRDepartmant.cs" />
+    <Compile Include="Interfaces\IIterable.cs" />
+    <Compile Include="Interfaces\IIterator.cs" />
+    <Compile Include="Classes\ListIterator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
