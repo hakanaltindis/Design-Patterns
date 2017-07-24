@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Control.cs" />
+    <Compile Include="Classes\Label.cs" />
+    <Compile Include="Classes\Stock.cs" />
+    <Compile Include="Interfaces\IObservable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
