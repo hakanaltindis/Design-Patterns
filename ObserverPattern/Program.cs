@@ -24,7 +24,7 @@ namespace ObserverPattern
 			s.Notify();
 			Display(c1);
 			Display(c2);
-
+			
 			s.GetElement();
 			s.Notify();
 			Display(c1);
